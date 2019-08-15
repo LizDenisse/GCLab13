@@ -1,0 +1,6 @@
+/Users/liz/Projects/GCLab13/GCLab13/bin/Debug/GCLab13.exe
+/Users/liz/Projects/GCLab13/GCLab13/bin/Debug/GCLab13.pdb
+/Users/liz/Projects/GCLab13/GCLab13/obj/x86/Debug/GCLab13.csprojAssemblyReference.cache
+/Users/liz/Projects/GCLab13/GCLab13/obj/x86/Debug/GCLab13.csproj.CoreCompileInputs.cache
+/Users/liz/Projects/GCLab13/GCLab13/obj/x86/Debug/GCLab13.exe
+/Users/liz/Projects/GCLab13/GCLab13/obj/x86/Debug/GCLab13.pdb
